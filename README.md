@@ -28,7 +28,7 @@
 </p>
 
 <!-- LIVE DEMO -->
-<a href="https://lumina-ai.vercel.app" target="_blank">
+<a href="https://lumina-ashen.vercel.app/#/welcome" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-667eea?style=for-the-badge&labelColor=2a2a2a" alt="Live Demo"/>
 </a>
 
