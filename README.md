@@ -38,7 +38,9 @@ A comprehensive study platform featuring AI-powered quizzes, collaborative squad
 
 3. **Environment Setup:**
    - Copy `.env.local.example` to `.env.local`
+ 
    - Add your Gemini API key:
+   
      ```
      GEMINI_API_KEY=your_gemini_api_key_here
      ```
