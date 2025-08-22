@@ -1,0 +1,44 @@
+{
+  "name": "lumina-2.0-–-cognitive-productivity-os",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^0.15.0",
+    "@monaco-editor/react": "^4.6.0",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@tailwindcss/postcss": "^4.1.12",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "firebase": "^12.1.0",
+    "framer-motion": "^11.3.19",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.417.0",
+    "monaco-editor": "^0.45.0",
+    "path": "^0.12.7",
+    "postcss-import": "^16.1.1",
+    "react": "^18.3.1",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.25.0",
+    "recharts": "^2.12.7",
+    "tailwind-merge": "^2.2.1",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.17.2",
+    "@vitejs/plugin-react": "^5.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12",
+    "typescript": "~5.8.2",
+    "vite": "^6.3.5"
+  }
+}
