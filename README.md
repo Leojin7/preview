@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-667eea?style=for-the-badge&labelColor=2a2a2a" alt="Live Demo"/>
 </a>
 
-<!-- DEMO GIF -->
+
 <br/><br/>
 <img src="https://raw.githubusercontent.com/lumina-ai/assets/main/demo-optimized.gif" width="90%" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);" alt="Lumina Platform Demo"/>
 
