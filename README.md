@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HERO SECTION -->
+<!-- HERO SECTION -->   
 <img src="https://raw.githubusercontent.com/lumina-ai/assets/main/hero-gradient.svg" width="100%" alt="Lumina Hero Banner"/>
 
 <h1>
@@ -436,9 +436,11 @@ text
 
 ---
 
+
 ## 📈 Analytics & Insights
 
 <div align="center">
+  
   <img src="https://raw.githubusercontent.com/lumina-ai/assets/main/analytics-dashboard.png" width="70%" alt="Analytics Dashboard"/>
 </div>
 
