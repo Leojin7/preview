@@ -9,6 +9,7 @@
   <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'SF Pro Display', 'Inter', system-ui; font-weight: 900; font-size: 4rem; letter-spacing: -2px;">Lumina</span>
   <br/>
   <sub style="font-size: 1.2rem; color: #8892b0; font-weight: 400;">Next-Generation AI Study Ecosystem</sub>
+  
 </h1>
 
 <!-- STATUS BADGES -->
