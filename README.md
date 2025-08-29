@@ -264,12 +264,12 @@ text
 
 ---
 
-## 🔐 Security Features
+##  🔐 Security Features
 
 - 🛡️ **End-to-End Encryption** for squad communications
 - 🔒 **Firebase Security Rules** with granular permissions
-- 🚫 **XSS Protection** with sanitized inputs
-- 🔐 **JWT Authentication** with refresh token rotation
+- 🚫 **XSS Protection** with sanitized inputs and better protection
+- 🔐 **JWT Authentication** with refresh token rotation and validation for users
 - 📊 **Privacy-First Analytics** with anonymized data
 - 🌐 **CSP Headers** for secure content loading
 
